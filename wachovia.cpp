@@ -4,6 +4,7 @@
 using namespace std;
 
 //spoj
+//codechef
 int knapsack(int W , int wt[] , int val[] , int n)
 {
     int i,w;
